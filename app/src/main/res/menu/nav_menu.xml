@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@id/statistics"
+        android:title="@string/statistics_fragment_label"
+        android:icon="@drawable/ic_insert_chart_white_24dp">
+    </item>
+
+    <item
+        android:id="@id/settings"
+        android:title="@string/settings_fragment_label"
+        android:icon="@drawable/ic_settings_white_24dp">
+    </item>
+
+</menu>

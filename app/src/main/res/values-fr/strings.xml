@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Statut de Covid-19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_shared_preference">app_shared_preference</string>
+    <string name="about">Il s\'agit d\'une application indépendante utilisée pour fournir des informations sur les cas de Covid-19 dans le monde et pour chaque pays. Il est disponible en anglais et en français. paramètre d\'affichage du mode noir disponible. Cette application utilise les données disponibles via l\'API REST Corona Covid-19 sur https://about-corona.net. Il utilise des icônes créées par Freepik à partir de https://www.flaticon.com. La liste Play Store contient un graphique de fonctionnalité et une image haute résolution par Miroslava Chrienova de Pixabay.</string>
+    <string name="country_detail_population_label">Population</string>
+    <string name="label_colon">:</string>
+    <string name="country_detail_today_confirmed">Aujourd\'hui confirmé</string>
+    <string name="country_detail_deaths_today_label">Aujourd\'hui, les décès</string>
+    <string name="country_detailed_total_confirmed_label">Total confirmé</string>
+    <string name="country_detail_total_recovered_label">Total récupéré</string>
+    <string name="country_details_total_deaths_label">Total des décès</string>
+    <string name="rv_item_country_label">Pays</string>
+    <string name="rv_item_confirmed_label">Confirmé :</string>
+    <string name="rv_item_deaths_label">Décès :</string>
+    <string name="rv_item_recovered_label">Récupérés :</string>
+    <string name="country_cases_no_internet_label">Pas d\'Internet</string>
+    <string name="total_cases_title_heading">Affaires Global Covid19</string>
+    <string name="total_cases_confirmed_label">Confirmé :</string>
+    <string name="total_cases_recovered_label">Récupérés :</string>
+    <string name="total_cases_deaths_label">Décès :</string>
+    <string name="navigation_header_label">Statut de Covid-19</string>
+    <string name="global_fragment_label">Global</string>
+    <string name="countries_fragment_label">Pays</string>
+    <string name="statistics_fragment_label">Statistiques</string>
+    <string name="settings_fragment_label">Paramètres</string>
+    <string name="about_options_menu_item_label">À propos de/Politique de confidentialité</string>
+    <string name="settings_item_dark_mode_label">Mode noir</string>
+    <string name="privacy_policy_heading">Politique de confidentialité</string>
+    <string name="privacy_policy">Moi, Srikanth Ganesan, j\'ai créé l\'application Covid-19 Status en tant qu\'application gratuite. Cette application est fournie par moi sans frais et est destinée à être utilisée telle quelle. Aucune information personnellement identifiable n\'est collectée. L\'application ne collecte pas de données et d\'informations (via des produits tiers) sur votre téléphone, appelées Données de journal. Le développeur n\'est pas responsable de l\'exactitude des données recueillies à partir des autres API utilisées. Si vous avez des questions ou des suggestions sur la politique de confidentialité, n\'hésitez pas à me contacter srikanthganesanapps@gmail.com</string>
+</resources>

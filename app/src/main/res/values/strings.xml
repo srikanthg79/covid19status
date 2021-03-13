@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Covid-19 Status</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_shared_preference">app_shared_preference</string>
+    <string name="about">This is an independent app used to provide information about Covid-19 cases globally and for each country. It is available in English and French languages. Dark mode viewing setting available. This app uses data available through Corona Covid-19 REST API from https://about-corona.net. It uses icons made by Freepik from https://www.flaticon.com. The play store listing contains feature graphic and hi resolution image by Miroslava Chrienova from Pixabay.</string>
+    <string name="country_detail_population_label">Population</string>
+    <string name="label_colon">:</string>
+    <string name="country_detail_today_confirmed">Today Confirmed</string>
+    <string name="country_detail_deaths_today_label">Deaths Today</string>
+    <string name="country_detailed_total_confirmed_label">Total Confirmed</string>
+    <string name="country_detail_total_recovered_label">Total Recovered</string>
+    <string name="country_details_total_deaths_label">Total Deaths</string>
+    <string name="rv_item_country_label">Country</string>
+    <string name="rv_item_confirmed_label">Confirmed :</string>
+    <string name="rv_item_deaths_label">Deaths :</string>
+    <string name="rv_item_recovered_label">Recovered :</string>
+    <string name="country_cases_no_internet_label">No Internet</string>
+    <string name="total_cases_title_heading">Global Covid19 Cases</string>
+    <string name="total_cases_confirmed_label">Confirmed :</string>
+    <string name="total_cases_recovered_label">Recovered :</string>
+    <string name="total_cases_deaths_label">Deaths :</string>
+    <string name="navigation_header_label">Covid19 Status</string>
+    <string name="global_fragment_label">Global</string>
+    <string name="countries_fragment_label">Countries</string>
+    <string name="statistics_fragment_label">Statistics</string>
+    <string name="settings_fragment_label">Settings</string>
+    <string name="about_options_menu_item_label">About/Privacy Policy</string>
+    <string name="settings_item_dark_mode_label">Dark Mode</string>
+    <string name="privacy_policy_heading">Privacy Policy</string>
+    <string name="privacy_policy">I, the developer, built the Covid-19 Status app as a free app. This app is provided by me at no cost and is intended for use as is. No personally identifiable information is collected. The app does not collect data and information (through third party products) on your phone called Log Data. The developer is not responsible for the accuracy of the data gathered from the rest api used. If you have any questions or suggestions about the Privacy Policy, do not hesitate to contact me srikanthganesanapps@gmail.com.</string>
+
+</resources>
