@@ -38,7 +38,7 @@ class CountryCasesFragment : Fragment() {
         country_cases_recycler_view.layoutManager = LinearLayoutManager(activity)
 
         //Create viewmodel instance
-        viewModel = ViewModelProvider(this).get(CountryCasesFragmentViewModel::class.java);
+        viewModel = ViewModelProvider(this).get(CountryCasesFragmentViewModel::class.java)
 
         val connection: ConnectivityManager? =
             context?.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
